@@ -1,0 +1,11 @@
+Process ID,Policy Name,Category,Mandatory,Description,Ref Document
+L2-19,5 Pillars Assessment Standard,Quality,Mandatory,Assess Management Employment H&S QMS Environment,
+L2-19,Grading Criteria,Quality,Mandatory,Assign grade: Good Satisfactory Improvement Needed or Reject,
+L2-23,Pre-production Testing Requirements,Quality,Mandatory,,
+L2-25,GSS Storage Period (2 years),Quality,Mandatory,,
+L2-27,Sustainable Materials Policy,Sustainability,Mandatory,,
+L2-36,AQL Sampling Standard,Quality,Mandatory,"AQL limits: Critical=0, Major<=2.5, Minor<=4.0 based on ISO 2859-1",ISO 2859-1
+L2-40,Minimum CBM Requirements,Logistics,Mandatory,"min CBM: 20ft=28, 40ft=56, 40ftHC=66",
+L2-44,Fumigation Standard (Methyl Bromide),Compliance,Mandatory,,
+L2-48,CAP Completion Before Shipment,Quality,Mandatory,,
+L2-49,35-Day RTV Window,Logistics,Mandatory,Return to Vendor collection within 35 days,

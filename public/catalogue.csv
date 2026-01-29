@@ -1,0 +1,16 @@
+Process ID,Level 0,Level 1,Level 2,Level 3,Process Owner,Description
+L0-01,SUPPORT,,,,Operations Director,Support functions: governance and standards
+L1-01,SUPPORT,Governance Standards & Sustainability,,,Quality Director,Quality governance and frameworks
+L2-01,SUPPORT,Governance Standards & Sustainability,Quality Governance Approach,,Quality Manager,Prevention-focused quality management
+L2-19,SOURCE,Factory Audit Programs,Surity Audit,,Quality Manager,On-site 5 Pillars assessment
+L3-003,SOURCE,Factory Audit Programs,Surity Audit,On-site 5 Pillars Assessment,QA Engineer,Assess Management Employment H&S QMS Environment
+L2-36,EXECUTE,Quality Inspection,FRI (Final Random Inspection),,Quality Manager,Final quality inspection before shipment
+L3-037,EXECUTE,Quality Inspection,FRI (Final Random Inspection),FRI Booking,Quality Coordinator,Booking FRI when 100% production complete
+L3-038,EXECUTE,Quality Inspection,FRI (Final Random Inspection),FRI Execution,QC Inspector,Execute final inspection
+L2-23,DEVELOP,Product Development & Approval,Silver Seal Process,,Quality Manager,SSS submission review and pre-production testing
+L3-010,DEVELOP,Product Development & Approval,Silver Seal Process,Silver Seal Sample Submission,Vendor,Vendor submits SSS for initial approval
+L1-07,SOURCE,Factory Audit Programs,,,Quality Director,Factory profile Surity audit CSR audit contracts
+L0-02,SOURCE,,,,Sourcing Director,Client intake vendor engagement sourcing
+L0-03,DEVELOP,,,,Product Development Director,Product development testing
+L0-04,EXECUTE,,,,Operations Director,Order management production oversight
+L0-05,DELIVER,,,,Operations Director,Documentation compliance payment

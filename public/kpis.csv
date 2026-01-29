@@ -1,0 +1,11 @@
+Process ID,KPI Name,Target,Frequency,Owner,Data Source,Comments
+L0-01,Overall Support Function Effectiveness,>=85%,Quarterly,Operations Director,,
+L1-07,Factory Audit Completion Rate,100%,Monthly,Quality Director,,
+L2-19,Audit Grade Distribution,>=70% Good/Satisfactory,Quarterly,Quality Manager,,
+L2-19,Average Audit Turnaround Time,<=14 days,Monthly,Quality Manager,,
+L2-36,FRI Pass Rate (First Time),>=90%,Weekly,Quality Manager,Inspection Reports,Percentage of shipments passing FRI first time
+L2-36,Critical Defects Found,0,Daily,Quality Manager,,
+L3-037,FRI Booking Lead Time,>=48 hours notice,Weekly,Quality Coordinator,,
+L2-39,Container Utilization Rate,>=85%,Monthly,Logistics Coordinator,,
+L2-46,Document Accuracy Rate,>=98%,Weekly,Finance Analyst,,
+L2-48,CAP Closure Rate,100% before shipment,Daily,Quality Manager,,

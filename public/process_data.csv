@@ -1,0 +1,138 @@
+Level 0,Level 1,Level 2,Level 3,Process Owner,Description/Comments
+SUPPORT,,,,Operations Director,"Support functions: governance, standards, sustainability, data systems, documentation, reporting, finance"
+SUPPORT,"Governance, Standards & Sustainability",,,Quality Director,"Quality governance, factory standards, environmental framework"
+SUPPORT,"Governance, Standards & Sustainability",Quality Governance Approach,,Quality Manager,Prevention-focused quality management framework
+SUPPORT,"Governance, Standards & Sustainability",Factory Standards Framework (5 Pillars),,Quality Manager,"Management, Employment, H&S, QMS, Environment standards"
+SUPPORT,"Governance, Standards & Sustainability",Environment Framework,,Sustainability Lead,"Carbon management, packaging optimization, product efficiency"
+SUPPORT,"Data, Systems & Reporting",,,IT & Data Director,"ERP systems, data management, document library, KPI reporting"
+SUPPORT,"Data, Systems & Reporting",ERP Facilitation & Data Flow,,Systems Manager,End-to-end data integration
+SUPPORT,"Data, Systems & Reporting",Data Management,,Data Manager,Product and order data maintenance
+SUPPORT,"Data, Systems & Reporting",Document Library,,Document Controller,Document storage and retrieval
+SUPPORT,"Data, Systems & Reporting",KPI Reporting,,BI Analyst,Client KPI dashboard production
+SUPPORT,Commercial & Finance Support,,,Finance Director,"Commercial support, payment and finance management"
+SUPPORT,Commercial & Finance Support,Payment & Finance,,Finance Manager,Payment processing and financial management
+SUPPORT,Issue Resolution & Risk Management,,,Operations Manager,"Non-conformance, claims, cost recovery, risk mitigation"
+SUPPORT,Issue Resolution & Risk Management,Non-Conformance Management,,Quality Manager,"NCR, CAP and RTV processes"
+SUPPORT,Issue Resolution & Risk Management,Claims & Cost Recovery,,Finance Director,Claims processing and cost recovery
+SOURCE,,,,Sourcing Director,"Client intake, vendor engagement, sourcing and factory audit programs"
+SOURCE,Client Intake & Commercial Setup,,,Commercial Manager,"Client briefing, agreements, range confirmation"
+SOURCE,Client Intake & Commercial Setup,Client Brief,,Account Manager,Client brief and requirements gathering
+SOURCE,Client Intake & Commercial Setup,Commercial Agreements,,Legal/Commercial Lead,"Sourcing services agreement, terms and conditions"
+SOURCE,Client Intake & Commercial Setup,Range Confirmation,,Category Manager,Range selection and approval
+SOURCE,Vendor Engagement & Sourcing,,,Sourcing Manager,"Vendor identification, quotation, tendering, sourcing"
+SOURCE,Vendor Engagement & Sourcing,Vendor Engagement,,Vendor Relations Lead,Vendor identification and engagement
+SOURCE,Vendor Engagement & Sourcing,Quotation Process,,Sourcing Lead,Quotation management and costing
+SOURCE,Vendor Engagement & Sourcing,Tender Management,,Sourcing Lead,Tender process and commercial evaluation
+SOURCE,Vendor Engagement & Sourcing,Sourcing Execution,,Sourcing Lead,Sourcing cycle execution
+SOURCE,Factory Audit Programs,,,Quality Director,"Factory profile, Surity audit, CSR audit, contracts, re-audits"
+SOURCE,Factory Audit Programs,Factory Profile Review,,Quality Manager,Factory assessment and profile report
+SOURCE,Factory Audit Programs,Factory Profile Review,Factory Profile Report Preparation,QA Engineer,"Review factory basic information, capacity, certifications"
+SOURCE,Factory Audit Programs,Surity Audit,,Quality Manager,On-site 5 Pillars assessment
+SOURCE,Factory Audit Programs,Surity Audit,Audit Planning & Scheduling,Quality Manager,"Schedule on-site audit, coordinate with factory"
+SOURCE,Factory Audit Programs,Surity Audit,On-site 5 Pillars Assessment,QA Engineer,"Assess Management, Employment, H&S, QMS, Environment"
+SOURCE,Factory Audit Programs,Surity Audit,Audit Report Preparation,QA Engineer,Document findings and recommendations
+SOURCE,Factory Audit Programs,CSR Audit (3rd Party),,Compliance Manager,"BSCI, SEDEX, SA8000, ICS audits"
+SOURCE,Factory Audit Programs,CSR Audit (3rd Party),CSR Audit Body Selection,Compliance Manager,"Select BSCI, SEDEX, SA8000, or ICS based on client requirements"
+SOURCE,Factory Audit Programs,CSR Audit (3rd Party),CSR Audit Coordination,Compliance Manager,"Coordinate 3rd party audit, obtain reports"
+SOURCE,Factory Audit Programs,Audit Grading & CAP,,Quality Manager,Grade assignment and CAP issuance (Good/Satisfactory/Improvement/Reject)
+SOURCE,Factory Audit Programs,Audit Grading & CAP,Audit Grading,Quality Manager,"Assign grade: Good, Satisfactory, Improvement Needed, or Reject"
+SOURCE,Factory Audit Programs,Audit Grading & CAP,CAP Issuance,Quality Manager,Issue Corrective Action Plan for non-compliances
+SOURCE,Factory Audit Programs,Factory Contract Execution,,Legal/Commercial Lead,Contract and service agreement execution
+SOURCE,Factory Audit Programs,Factory Contract Execution,Contract Execution,Legal/Commercial Lead,Execute factory contract and service agreement
+DEVELOP,,,,Product Development Director,"Product development, testing, packaging, artwork and instruction manual development"
+DEVELOP,Product Development & Approval,,,Quality Director,"Silver Seal, technical file, Gold Seal, testing"
+DEVELOP,Product Development & Approval,Silver Seal Process,,Quality Manager,"SSS submission, review and pre-production testing"
+DEVELOP,Product Development & Approval,Silver Seal Process,Silver Seal Sample Submission,Vendor,Vendor submits SSS for initial approval
+DEVELOP,Product Development & Approval,Silver Seal Process,Silver Seal Review,Quality Manager,Review SSS against specifications
+DEVELOP,Product Development & Approval,Silver Seal Process,Pre-production Testing,Testing Manager,Arrange testing before production
+DEVELOP,Product Development & Approval,Technical File Compilation,,Technical Manager,"Test reports, certificates, DoC, REACH compliance"
+DEVELOP,Product Development & Approval,Technical File Compilation,Test Reports Collection,Technical Manager,Collect all required test reports
+DEVELOP,Product Development & Approval,Technical File Compilation,Certificates Collection,Technical Manager,Collect product certificates
+DEVELOP,Product Development & Approval,Technical File Compilation,Declaration of Conformity,Technical Manager,Prepare DoC documentation
+DEVELOP,Product Development & Approval,Technical File Compilation,REACH Compliance Check,Technical Manager,Verify REACH compliance documentation
+DEVELOP,Product Development & Approval,Gold Seal Process,,Quality Manager,"GSS submission, inspection, sealing and storage (2yr reference)"
+DEVELOP,Product Development & Approval,Gold Seal Process,Gold Seal Sample Submission,Vendor,Vendor submits GSS (approved production sample)
+DEVELOP,Product Development & Approval,Gold Seal Process,Gold Seal Inspection,Quality Manager,Client/Surity inspection and approval
+DEVELOP,Product Development & Approval,Gold Seal Process,Gold Seal Sealing & Storage,Quality Manager,Seal and store GSS as 2yr reference standard
+DEVELOP,Product Development & Approval,Testing & Validation,,Testing Manager,"Test specification, functional samples, lab testing"
+DEVELOP,Packaging Development,,,Packaging Manager,"Physical design, artwork, carton markings"
+DEVELOP,Packaging Development,Physical Packaging Design,,Packaging Manager,"Material selection, testing, environmental optimization (FSC/PEFC)"
+DEVELOP,Packaging Development,Physical Packaging Design,Packaging Material Selection,Packaging Manager,"Select sustainable materials (paper-based, FSC/PEFC)"
+DEVELOP,Packaging Development,Physical Packaging Design,Packaging Testing,Packaging Engineer,Test packaging for durability and compliance
+DEVELOP,Packaging Development,Physical Packaging Design,Environmental Optimization,Sustainability Lead,Optimize for sustainability (no PVC/EPS)
+DEVELOP,Packaging Development,Artwork Generation & Approval,,Artwork Manager,"AWCL, artwork creation, die cut, barcode, print proof"
+DEVELOP,Packaging Development,Artwork Generation & Approval,AWCL Completion,Artwork Manager,Complete Artwork Check List
+DEVELOP,Packaging Development,Artwork Generation & Approval,Artwork Creation,Artwork Designer,Create artwork per specifications
+DEVELOP,Packaging Development,Artwork Generation & Approval,Die Cut Approval,Packaging Engineer,Approve die cut design
+DEVELOP,Packaging Development,Artwork Generation & Approval,Barcode Verification,Quality Manager,Verify EAN/UPC barcode accuracy
+DEVELOP,Packaging Development,Artwork Generation & Approval,Print Proof Approval,Account Manager,Client approval of print proof
+DEVELOP,Packaging Development,Carton Markings,,Logistics Coordinator,Retail readiness and carton marking standards
+DEVELOP,Instruction Manual Development,,,Quality Manager,"IM creation, review, translation"
+DEVELOP,Instruction Manual Development,IM Development & Translation,,Quality Manager,"IM English creation, review, approval, translation"
+DEVELOP,Instruction Manual Development,IM Development & Translation,IM English Creation,Technical Writer,Create instruction manual in English
+DEVELOP,Instruction Manual Development,IM Development & Translation,IM Review & Approval,Quality Manager,Review and approve IM content
+DEVELOP,Instruction Manual Development,IM Development & Translation,IM Translation,Translation Agency,Translate IM to required languages
+DEVELOP,E-commerce Data & Image Capture,,,Digital Content Manager,"PIMDAM process, data and image capture"
+DEVELOP,E-commerce Data & Image Capture,PIMDAM Process,,E-commerce Lead,"Style guide, data capture, image photography, validation, upload"
+EXECUTE,,,,Operations Director,"Order management, production oversight, quality inspection, logistics and delivery"
+EXECUTE,Order Management,,,Account Manager,"Quotation, proforma, order confirmation"
+EXECUTE,Order Management,Quotation,,Account Manager,Outline and full quotation with data collection
+EXECUTE,Order Management,Quotation,Outline Quotation,Sourcing Lead,Initial quotation with estimated pricing
+EXECUTE,Order Management,Quotation,Full Quotation,Sourcing Lead,Detailed quotation with complete data
+EXECUTE,Order Management,Order Placement,,Account Manager,"Proforma, order confirmation, official order"
+EXECUTE,Order Management,Order Placement,Proforma Order,Account Manager,Issue proforma order for vendor preparation
+EXECUTE,Order Management,Order Placement,Order Confirmation,Account Manager,Vendor confirms order details
+EXECUTE,Order Management,Order Placement,Official Order,Account Manager,Issue official purchase order
+EXECUTE,Production Management,,,Production Manager,"Production planning, oversight, coordination"
+EXECUTE,Production Management,Production Coordination,,Production Coordinator,"Production planning, oversight and vendor coordination"
+EXECUTE,Quality Inspection,,,Quality Director,"DUPRO, FRI, self-inspection, guarantee letter"
+EXECUTE,Quality Inspection,DUPRO (During Production),,Quality Manager,In-process inspection during production
+EXECUTE,Quality Inspection,DUPRO (During Production),DUPRO Inspection Execution,QC Inspector,Inspect during production (30-50% complete)
+EXECUTE,Quality Inspection,FRI (Final Random Inspection),,Quality Manager,"FRI booking, execution, report (AQL: Critical=0, Major?2.5, Minor?4.0)"
+EXECUTE,Quality Inspection,FRI (Final Random Inspection),FRI Booking,Quality Coordinator,"Book FRI when 100% production complete, 80% packed"
+EXECUTE,Quality Inspection,FRI (Final Random Inspection),FRI Execution,QC Inspector,Execute final inspection per AQL standards
+EXECUTE,Quality Inspection,FRI (Final Random Inspection),FRI Report Review,Quality Manager,Review report and approve/reject shipment
+EXECUTE,Quality Inspection,Self-Inspection Program,,Vendor,Vendor self-inspection for qualified vendors
+EXECUTE,Quality Inspection,Self-Inspection Program,Self-Inspection Execution,Vendor,Qualified vendors conduct self-inspection
+EXECUTE,Quality Inspection,Defect Classification,,Quality Manager,DCL and inspection criteria definition
+EXECUTE,Quality Inspection,Defect Classification,DCL Definition,Quality Manager,"Define critical, major, and minor defects"
+EXECUTE,Container Loading & Delivery,,,Logistics Coordinator,"Booking, loading, photo documentation, delivery"
+EXECUTE,Container Loading & Delivery,Container Booking,,Logistics Coordinator,"3PL registration, online booking, shipping order release"
+EXECUTE,Container Loading & Delivery,Container Booking,3PL Registration,Logistics Coordinator,Register new vendors with 3PL
+EXECUTE,Container Loading & Delivery,Container Booking,Online Booking Submission,Logistics Coordinator,Submit booking to 3PL system
+EXECUTE,Container Loading & Delivery,Container Booking,Shipping Order Release,Logistics Coordinator,Release shipping order to vendor
+EXECUTE,Container Loading & Delivery,Container Loading Supervision,,Vendor,"Loading supervision, photo documentation, approval (min CBM: 20ft=28, 40ft=56, 40ftHC=66)"
+EXECUTE,Container Loading & Delivery,Container Loading Supervision,Loading Supervision,Vendor/3PL,Supervise container loading process
+EXECUTE,Container Loading & Delivery,Container Loading Supervision,Loading Photo Documentation,Vendor,Photo documentation of loading (required)
+EXECUTE,Container Loading & Delivery,Container Loading Supervision,Loading Approval,Logistics Coordinator,Approve loading photos and proceed
+EXECUTE,Container Loading & Delivery,Port Delivery,,Vendor,FCL and LCL delivery to port
+EXECUTE,Container Loading & Delivery,Port Delivery,FCL Delivery,Vendor,Full Container Load delivery to port
+EXECUTE,Container Loading & Delivery,Port Delivery,LCL Delivery,Vendor,Less than Container Load delivery to port
+EXECUTE,Container Loading & Delivery,Loading Guidelines,,Logistics Manager,Palletization and container loading standards
+DELIVER,,,,Operations Director,"Documentation, compliance, payment processing and issue resolution"
+DELIVER,Documentation & Compliance,,,Logistics Coordinator,"Invoice, packing, BL, COO, certificates"
+DELIVER,Documentation & Compliance,Export Documentation,,Vendor,"Commercial invoice, packing list, Bill of Lading/FCR"
+DELIVER,Documentation & Compliance,Export Documentation,Commercial Invoice,Vendor,"Prepare commercial invoice (English, typewritten)"
+DELIVER,Documentation & Compliance,Export Documentation,Packing List,Vendor,Prepare detailed packing list
+DELIVER,Documentation & Compliance,Export Documentation,Bill of Lading / FCR,Vendor/3PL,Prepare BL for ocean or FCR for courier
+DELIVER,Documentation & Compliance,Compliance Certificates,,Vendor,"Certificate of Origin/GSP, fumigation (Methyl Bromide), vendor self-declarations"
+DELIVER,Documentation & Compliance,Compliance Certificates,Certificate of Origin / GSP,Vendor,Obtain COO or GSP Form A as required
+DELIVER,Documentation & Compliance,Compliance Certificates,Fumigation Certificate,Vendor,Obtain fumigation cert for wooden materials (Methyl Bromide only)
+DELIVER,Documentation & Compliance,Compliance Certificates,Vendor Self-Declaration,Vendor,Vendor compliance self-declarations
+DELIVER,Documentation & Compliance,Document Review,,Logistics Coordinator,"Document accuracy verification (English, typewritten, consistent)"
+DELIVER,Documentation & Compliance,Document Review,Document Accuracy Check,Logistics Coordinator,Verify all documents consistent and accurate
+DELIVER,Payment Processing,,,Finance Director,Payment documentation and release
+DELIVER,Payment Processing,Payment Documentation,,Finance Manager,"Document submission for T/T, D/A, L/C"
+DELIVER,Payment Processing,Payment Documentation,T/T Document Submission,Finance Analyst,Submit docs for Telegraphic Transfer
+DELIVER,Payment Processing,Payment Documentation,D/A or L/C Document Submission,Finance Analyst,Submit docs for D/A or Letter of Credit
+DELIVER,Payment Processing,Payment Release,,Finance Manager,Document verification and payment approval
+DELIVER,Payment Processing,Payment Release,Payment Authorization,Finance Manager,Authorize payment release after document verification
+DELIVER,Issue Resolution,,,Quality Director,"NCR, CAP, RTV, dispute resolution"
+DELIVER,Issue Resolution,CAP (Corrective Action Plan),,Quality Manager,CAP documentation and validation (complete before shipment)
+DELIVER,Issue Resolution,CAP (Corrective Action Plan),CAP Preparation,Quality Manager,Document corrective actions required
+DELIVER,Issue Resolution,CAP (Corrective Action Plan),CAP Validation,Quality Manager,Validate CAP completion before shipment
+DELIVER,Issue Resolution,Return to Vendor (RTV),,Logistics Coordinator,"RTV collection (35-day window), disposal at vendor cost"
+DELIVER,Issue Resolution,Return to Vendor (RTV),RTV Collection,Logistics Coordinator,Arrange collection within 35-day window
+DELIVER,Issue Resolution,Return to Vendor (RTV),RTV Disposal,Vendor,Vendor disposes of goods at their cost after deadline
+DELIVER,Issue Resolution,Dispute Resolution,,Legal/Management,Legal dispute resolution and claims management
+DELIVER,Issue Resolution,Dispute Resolution,Legal Dispute Management,Legal/Management,Manage legal disputes and claims

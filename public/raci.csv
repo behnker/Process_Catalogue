@@ -1,0 +1,11 @@
+Process ID,Responsible,Accountable,Consulted,Informed,Comments
+L0-01,"Operations Director","CEO",,,
+L1-01,"Quality Director","Operations Director",,,
+L2-01,"Quality Manager","Quality Director",,,
+L2-19,"Quality Manager","Quality Director",,,
+L3-003,"QA Engineer","Quality Manager",,,
+L2-23,"Quality Manager","Quality Director",,,
+L3-010,"Vendor","Quality Manager",,,
+L2-36,"Quality Manager","Quality Director","Production Coordinator","Account Manager",Final quality inspection before shipment
+L3-037,"Quality Coordinator","Quality Manager",,,
+L3-038,"QC Inspector","Quality Manager",,,

@@ -1,0 +1,32 @@
+import React from 'react';
+import { Search } from 'lucide-react';
+
+interface SearchBarProps {
+    value: string;
+    onChange: (val: string) => void;
+}
+
+export const SearchBar: React.FC<SearchBarProps> = ({ value, onChange }) => {
+    return (
+        <div className="relative w-full max-w-lg group">
+            <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                <Search className="h-5 w-5 text-gray-400 group-focus-within:text-indigo-500 transition-colors" />
+            </div>
+            <input
+                type="text"
+                className="block w-full pl-10 pr-3 py-2 border border-gray-300 rounded-lg leading-5 bg-white placeholder-gray-500 focus:outline-none focus:placeholder-gray-400 focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500 sm:text-sm transition-all duration-200 shadow-sm hover:border-gray-400"
+                placeholder="Search processes..."
+                value={value}
+                onChange={(e) => onChange(e.target.value)}
+            />
+            {value && (
+                <button
+                    onClick={() => onChange('')}
+                    className="absolute inset-y-0 right-0 pr-3 flex items-center text-gray-400 hover:text-gray-600 cursor-pointer"
+                >
+                    <span className="text-xs font-semibold">ESC</span>
+                </button>
+            )}
+        </div>
+    );
+};
